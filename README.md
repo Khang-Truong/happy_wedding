@@ -1,6 +1,5 @@
 # happy_wedding
 
-# Some pictures about the project
 ![Web capture_28-4-2023_22319_happyweddingweb netlify app](https://user-images.githubusercontent.com/62549740/235285454-13ddb2ba-f78e-4bac-a2ae-ee388d34ee2d.jpeg)
 
 
