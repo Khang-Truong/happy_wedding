@@ -5,6 +5,7 @@
 	list-style: none;
 }
 body {
+	cursor: url('../img/mouseCursor.png'), auto;
 	background-image: url('../img/sky.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
